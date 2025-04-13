@@ -52,4 +52,10 @@ button{
     cursor: pointer;
 }.equalBtn{
     background-color: #fb7c14;
+}.operator{
+    color: black;
+    background-color: gray;
+}.number{
+    color:black ;
+    background-color: silver;
 }
